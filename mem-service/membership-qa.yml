@@ -1,3 +1,5 @@
+server:
+ port: 9191
 member:
  rent:
   min: 10
